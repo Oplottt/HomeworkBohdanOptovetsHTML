@@ -35,13 +35,18 @@
 }
 .block-inside1{
     border: solid 1px black;
-    
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .block-inside2{
     border: solid 1px black;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .block-inside3{
     border: solid 1px black;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 .text1{
     border: solid 1px white;
