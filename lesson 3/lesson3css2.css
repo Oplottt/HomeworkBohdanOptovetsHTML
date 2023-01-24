@@ -1,0 +1,83 @@
+.father{
+    height: 650px;
+    width: 600px;
+    justify-content: center;
+    text-align: center;
+    display: block;
+
+}
+.block-top{
+    height: 100px;
+    width: 600px;
+    background: darkgray;
+}
+.block-middle{
+    height: 300px;
+    width: 600px;
+    background: black;
+}
+.block-bottom{
+    height: 150px;
+    width: 600px;
+    background: darkgray;
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.block-bottom-inside1{
+    height: 120px;
+    width: 120px;
+    background: blueviolet;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+}
+.block-bottom-inside2{
+    height: 120px;
+    width: 120px;
+    background: blueviolet;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+    left: 395px;
+}
+.block-bottom-inside3{
+    height: 120px;
+    width: 120px;
+    background: blueviolet;
+    border-radius: 10px;
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.block-top-inside1{
+    height: 30px;
+    width: 80px;
+    background: black;
+    border-radius: 10px;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+}
+.block-top-inside2{
+    height: 30px;
+    width: 80px;
+    position: absolute;
+    left: 430px;
+    top: 50px;
+
+
+}
+.block-top-inside3{
+    height: 30px;
+    width: 80px;
+    position: absolute;
+    left: 460px;
+    top: 50px;
+}
+.fa-solid {
+    color: blueviolet;
+font-size: 20px;
+
+}
