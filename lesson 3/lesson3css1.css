@@ -1,0 +1,111 @@
+.father{
+    width: 900px;
+    height: 300px;
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.block1{
+    border: solid 1px black;
+    width: 25%;
+    height: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block2{
+    border: solid 1px black;
+    width: 25%;
+    height: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block3{
+    border: solid 1px black;
+    width: 25%;
+    height: 225px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.block-inside1{
+    border: solid 1px black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.block-inside2{
+    border: solid 1px black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.block-inside3{
+    border: solid 1px black;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.text1{
+    border: solid 1px white;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.text2{
+    border: solid 1px white;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.text3{
+    border: solid 1px white;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.circle1{
+    width: 50px;
+    height: 50px;
+    border: solid 1px black;
+    position: absolute;
+    top: 10px;
+    background: white;
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+
+}
+.circle2{
+    width: 50px;
+    height: 50px;
+    border: solid 1px black;
+    position: absolute;
+    top: 10px;
+    background: white;
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+
+}
+.circle3{
+    width: 50px;
+    height: 50px;
+    border: solid 1px black;
+    position: absolute;
+    top: 10px;
+    background: white;
+    border-radius: 50%;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+.fa-solid {
+    color: darkorange;
+    position: absolute;
+    top: 18px;
+}
