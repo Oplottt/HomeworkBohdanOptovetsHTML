@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff272a1-dfef-4225-a07d-d115008480d2" name="Changes" comment="дз 24.01">
-      <change afterPath="$PROJECT_DIR$/lesson 4/adaptive base 1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/adaptive base 1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson 4/media 1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bff272a1-dfef-4225-a07d-d115008480d2" name="Changes" comment="дз 29.01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +71,7 @@
       <workItem from="1674652435647" duration="250000" />
       <workItem from="1674940106091" duration="2638000" />
       <workItem from="1674944888912" duration="230000" />
-      <workItem from="1674985903757" duration="301000" />
+      <workItem from="1674985903757" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="дз 17.01">
       <created>1674053537950</created>
@@ -134,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674596031407</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="дз 29.01">
+      <created>1674986426287</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674986426287</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +157,7 @@
     <MESSAGE value="дз 17.01" />
     <MESSAGE value="дз 20.01" />
     <MESSAGE value="дз 24.01" />
-    <option name="LAST_COMMIT_MESSAGE" value="дз 24.01" />
+    <MESSAGE value="дз 29.01" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз 29.01" />
   </component>
 </project>
