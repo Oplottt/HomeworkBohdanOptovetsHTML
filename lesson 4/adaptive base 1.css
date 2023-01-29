@@ -1,0 +1,48 @@
+.father
+{
+    width: 600px;
+    height: 400px;
+    background: white;
+    border: solid 3px black;
+    border-radius: 10px;
+}
+.block-a{
+    width: 595px;
+    height: 33%;
+    background: darkgray;
+    border: solid 3px white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-bc{
+    width: 595px;
+    height: 64%;
+    background: white;
+    border: solid 3px white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-b{
+    width: 75%;
+    height: 100%;
+    background: darkgray;
+    border: solid 3px white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block-c{
+    width: 25%;
+    height: 100%;
+    background: darkgray;
+    border: solid 3px white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

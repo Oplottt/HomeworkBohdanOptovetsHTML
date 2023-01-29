@@ -1,0 +1,56 @@
+@media screen and (min-width: 0) and (max-width: 768px) {
+    .father
+    {
+        width: 100px;
+        height: 300px;
+        background: white;
+        border: solid 3px black;
+        border-radius: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .block-a{
+        width: 90px;
+        height: 15%;
+        background: darkgray;
+        border: solid 3px white;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .block-b{
+        width: 90px;
+        height: 78%;
+        background: darkgray;
+        border: solid 3px white;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .block-c{
+        width: 90px;
+        height: 18%;
+        background: darkgray;
+        border: solid 3px white;
+        border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+.block-bc{
+    width: 95px;
+    height: 90%;
+    background: white;
+    border: solid 2px white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+}
